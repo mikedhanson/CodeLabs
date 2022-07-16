@@ -1,10 +1,10 @@
 # My take on Google Codelab: FriendlyChat
 
 ## TODO
-### Add ability to delete indivitual messages 
-### Add todo functionality as well 
-### Add user mgmt stuff
-### - 
+ - Add ability to delete indivitual messages 
+- When signed out, hide messages list
+- Add todo functionality as well 
+- Add user mgmt stuff
 
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
 code for Web, Cloud Functions, Performance Monitoring. To get started, open the codelab instructions:
